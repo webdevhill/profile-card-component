@@ -20,13 +20,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](Profile card component_375px.jpg)
+![](./images/Profile%20card%20component_375px.jpg)
 
-![](Profile card component_1440px.jpg)
+![](./images/Profile%20card%20component_1440px.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/webdevhill/profile-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
