@@ -39,7 +39,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-The card component itself was simple enough. Although, in the design files it occupies more of the viewport. I sized the card proportionally to the 18px specifies for the name and stats. The two SVG backgroundtook some tinkering. They look fairly close.
+The card component itself was simple enough. Although, in the design files it occupies more of the viewport. I sized the card proportionally to the 18px specified for the name and stats. The two SVG backgroundtook some tinkering. They look fairly close.
 
 ## Author
 
